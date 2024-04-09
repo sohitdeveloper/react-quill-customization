@@ -1,0 +1,10 @@
+.ql-toolbar.ql-snow {
+  text-align: left;
+  /* border: 1px solid red !important; */
+}
+.ql-container.ql-snow {
+  height:97px;
+}
+.ql-snow.ql-toolbar button.ql-snow.ql-toolbar button {
+  background-color: white !important;
+}
